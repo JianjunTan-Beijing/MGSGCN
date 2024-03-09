@@ -17,3 +17,11 @@ networkx==2.6.3
 pandas==1.3.5    
 scipy ==1.7.3    
 scikit-learn==0.23.2
+
+## How to run
+
+## Reference:
+
+MGSGCN: Prediction of lncRNA-disease associations by graph convolutional network based on multi-graph structures and attention mechanism
+
+## Contact: tanjianjun@bjut.edu.cn
