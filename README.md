@@ -31,7 +31,7 @@ scikit-learn==0.23.2
 The program is in Python 3.7.13 using [Pytorch] backends. Use the below bash command to run MGSGCN.
 
 ```bash
-    python main.py -d dataset
+    python Main.py -d dataset
 ```
 
 ## Reference:
