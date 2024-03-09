@@ -37,6 +37,7 @@ The program is in Python 3.7.13 using [Pytorch] backends. Use the below bash com
 ## Reference:
 
 (If using this code , please cite our paper.)    
+
 MGSGCN: Prediction of lncRNA-disease associations by graph convolutional network based on multi-graph structures and attention mechanism
 
 ## Contact: tanjianjun@bjut.edu.cn
